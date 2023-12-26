@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Inter;
+    width: auto;
+
+}
+.body{
+    width: 100%;
+}
+
+.content{
+    background-color: #FFCD9E;
+    height: 590px;
+    display: flex;
+    width: 1400px;
+   
+}
+
+.head{
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 150%;
+    width: 562px;
+    margin-top: 83px;
+    margin-left: 120px;
+}
+
+.img{
+    
+    width: 570.45px;
+    height: 570.45px;
+    margin-top: 20.4px;
+}
+
+
+.para{
+    width: 495px;
+    height: 81px;
+    margin-left:120px;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 160%;
+    margin-top: 28px;
+
+}
+.head2{
+    color: #282828;
+    font-size: 20px;
+    font-weight: 900;
+    line-height: 150%;
+    margin-left: 120px;
+    margin-top: 15px;
+    width: 227px;
+    height: 25px;
+    font-style: normal;
+    padding: 25px 0px 25px 0px;
+}
+.in{
+    width: 310px;
+    height:55px;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 160%;
+    color: #888;
+    margin-left: 120px;
+    margin-top: 15px;
+    border: 5px solid black;
+    border-radius: 10px;
+    margin-right: 28px;
+
+}
+.btn{
+    width: 200px;
+    height: 65px;
+    color: #FFF;
+    text-align: center;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    background-color: #282828;
+    border: 0px solid black;
+    border-radius: 10px;
+}
+.para2{
+    width: 344px;
+    height: 61px;
+    text-align: center;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 550;
+    line-height: 160%;
+    margin-left: 120px;
+    color: #FFF;
+    padding: 25px 0px 25px 0px;
+}
+
+.footer{
+    height: 300px;
+    background-color: #282828;
+    width:1400px;
+   
+}
+.footercontent{
+    padding-top: 5%;
+    margin-left: 191px;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 180%;
+    color: #FFF;
+    width: auto;
+    height: 36px;
+    display: inline-flex;
+    
+    
+}
+.footercontentright{
+    text-align: right;
+    justify-content: right;
+    padding-left: 450px;
+   
+}
+.logo{
+    width: 29.41px;
+    height: 29.41px;
+    margin-right:9px;
+}
+
+.email{
+    margin-top: 42px;
+}
